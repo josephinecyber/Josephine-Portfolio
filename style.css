@@ -133,10 +133,9 @@ border-radius: 20px;
 
 
 .projects {
-  padding: 10px
-  background-color:rgb(95, 46, 62);
-  text-align: center;
-  height: 60vh
+  padding: 10px;
+  text-align:center;
+  height: 60vh;
 }
 
 .projects h2 {
@@ -149,7 +148,7 @@ border-radius: 20px;
   grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
   gap: 20px;
   justify-items: center;
-}
+} cen
 
 .project-item {
   background-color:pink;
